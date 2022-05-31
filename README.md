@@ -1,4 +1,4 @@
-- 👋 Greetings, I’m @EltiganiHamad, a Sudanese computer science student who aspires to be a Machine Learning engineer..
+- 👋 Greetings, I’m @EltiganiHamad, a Sudanese computer science student who aspires to be a Machine Learning engineer.
 - 👀 I’m currently studying at Sunway University, Malaysia 
 - 🌱 I’m currently exploring the use of Machline Learning Algorithms in robotic grasping point detection.
 
